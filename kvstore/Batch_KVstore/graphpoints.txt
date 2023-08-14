@@ -1,0 +1,19 @@
+4 clients 4 threads 100 responses , 60861 microsec (resp time for clients) , (throughput)410 req per sec per thread
+     
+     4 clients 4 threads 200 responses , 157216 microsec (resp time for clients) , (throughput)318 req per sec per thread
+     
+      4 clients 4 threads 300 responses , 244066 microsec (resp time for clients) , (throughput)307 req per sec per thread
+      
+      4 clients 4 threads 400 responses , 329997 microsec (resp time for clients) , (throughput)300 req per sec per thread
+      
+      4 clients 4 threads 500 responses , 411383 microsec (resp time for clients) , (throughput)303 req per sec per thread
+      
+      4 clients 4 threads 600 responses , 457715 microsec (resp time for clients) , (throughput)300 req per sec per thread
+      
+      4 clients 4 threads 700 responses , 576586 microsec (resp time for clients) , (throughput)303 req per sec per thread
+      
+      4 clients 4 threads 800 responses , 617636 microsec (resp time for clients) , (throughput)300 req per sec per thread
+      
+      4 clients 4 threads 900 responses , 682593 microsec (resp time for clients) , (throughput)330 req per sec per thread
+      
+      4 clients 4 threads 1000 responses , 794337 microsec (resp time for clients) , (throughput)314 req per sec per thread

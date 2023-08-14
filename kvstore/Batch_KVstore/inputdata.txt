@@ -1,0 +1,349 @@
+100
+2
+VhmLz
+HaThr
+2
+IcF2L
+H5avx
+2
+ugQcY
+lleVi
+2
+SYQYJ
+0udB6
+2
+yKJ3z
+itKKO
+2
+ULLLg
+6LxYp
+2
+clAUC
+SOMJo
+2
+EkQEe
+1t0R4
+2
+Nrlfy
+dV1re
+2
+F9LUz
+lVjwW
+2
+FbGCC
+CB127
+2
+3EzMl
+x3ElC
+2
+bDIj7
+1Eq0A
+2
+ctDxI
+hwKK0
+2
+CNoFg
+4uPN2
+2
+nNesB
+gEBDP
+2
+9z2G7
+w8QpN
+2
+nS1PY
+uBU4B
+2
+VYoSm
+tkVdQ
+2
+yguCU
+acafL
+1
+ctDxI
+3
+Nrlfy
+3
+CNoFg
+2
+oTnXg
+6M4Fa
+3
+VYoSm
+2
+te9dE
+gjKfL
+3
+ctDxI
+3
+VYoSm
+1
+F9LUz
+3
+9z2G7
+1
+ULLLg
+2
+jmrrS
+cvPew
+2
+yguCU
+acafL
+3
+oTnXg
+3
+yguCU
+3
+nS1PY
+1
+yKJ3z
+3
+nS1PY
+1
+nS1PY
+1
+FbGCC
+2
+IcF2L
+H5avx
+3
+jmrrS
+1
+bDIj7
+1
+yKJ3z
+2
+Nrlfy
+dV1re
+3
+VhmLz
+3
+yguCU
+2
+IcF2L
+H5avx
+2
+fCDqf
+KTPrW
+3
+VhmLz
+3
+nNesB
+1
+nS1PY
+1
+ULLLg
+3
+bDIj7
+2
+86uOP
+waEdV
+3
+oTnXg
+3
+ULLLg
+3
+F9LUz
+2
+praJs
+TAEil
+2
+51Pis
+m7A9g
+3
+IcF2L
+3
+3EzMl
+1
+EkQEe
+2
+Nrlfy
+dV1re
+3
+SYQYJ
+1
+SYQYJ
+3
+VYoSm
+1
+SYQYJ
+1
+nS1PY
+2
+iAfEO
+ViKdq
+2
+qcp3V
+N4bhQ
+3
+clAUC
+1
+praJs
+2
+pfgX4
+PUHdy
+2
+diyUK
+ee0oF
+3
+yguCU
+3
+VYoSm
+3
+VhmLz
+3
+te9dE
+3
+clAUC
+3
+Nrlfy
+3
+yguCU
+2
+F9LUz
+lVjwW
+3
+3EzMl
+3
+VhmLz
+3
+IcF2L
+3
+VYoSm
+2
+yKJ3z
+itKKO
+2
+VhmLz
+HaThr
+2
+MBltA
+mJfai
+3
+nS1PY
+1
+bDIj7
+2
+diyUK
+ee0oF
+2
+tNFpz
+aghS7
+3
+oTnXg
+2
+BptzA
+LbM1C
+1
+SYQYJ
+1
+iAfEO
+3
+nS1PY
+2
+IcF2L
+H5avx
+
+
+
+100
+2 VhmLz HaThr
+2 IcF2L H5avx
+2 ugQcY lleVi
+2 SYQYJ 0udB6
+2 yKJ3z itKKO
+2 ULLLg 6LxYp
+2 clAUC SOMJo
+2 EkQEe 1t0R4
+2 Nrlfy dV1re
+2 F9LUz lVjwW
+2 FbGCC CB127
+2 3EzMl x3ElC
+2 bDIj7 1Eq0A
+2 ctDxI hwKK0
+2 CNoFg 4uPN2
+2 nNesB gEBDP
+2 9z2G7 w8QpN
+2 nS1PY uBU4B
+2 VYoSm tkVdQ
+2 yguCU acafL
+1 ctDxI
+3 Nrlfy
+3 CNoFg
+2 oTnXg 6M4Fa
+3 VYoSm
+2 te9dE gjKfL
+3 ctDxI
+3 VYoSm
+1 F9LUz
+3 9z2G7
+1 ULLLg
+2 jmrrS cvPew
+2 yguCU acafL
+3 oTnXg
+3 yguCU
+3 nS1PY
+1 yKJ3z
+3 nS1PY
+1 nS1PY
+1 FbGCC
+2 IcF2L H5avx
+3 jmrrS
+1 bDIj7
+1 yKJ3z
+2 Nrlfy dV1re
+3 VhmLz
+3 yguCU
+2 IcF2L H5avx
+2 fCDqf KTPrW
+3 VhmLz
+3 nNesB
+1 nS1PY
+1 ULLLg
+3 bDIj7
+2 86uOP waEdV
+3 oTnXg
+3 ULLLg
+3 F9LUz
+2 praJs TAEil
+2 51Pis m7A9g
+3 IcF2L
+3 3EzMl
+1 EkQEe
+2 Nrlfy dV1re
+3 SYQYJ
+1 SYQYJ
+3 VYoSm
+1 SYQYJ
+1 nS1PY
+2 iAfEO ViKdq
+2 qcp3V N4bhQ
+3 clAUC
+1 praJs
+2 pfgX4 PUHdy
+2 diyUK ee0oF
+3 yguCU
+3 VYoSm
+3 VhmLz
+3 te9dE
+3 clAUC
+3 Nrlfy
+3 yguCU
+2 F9LUz lVjwW
+3 3EzMl
+3 VhmLz
+3 IcF2L
+3 VYoSm
+2 yKJ3z itKKO
+2 VhmLz HaThr
+2 MBltA mJfai
+3 nS1PY
+1 bDIj7
+2 diyUK ee0oF
+2 tNFpz aghS7
+3 oTnXg
+2 BptzA LbM1C
+1 SYQYJ
+1 iAfEO
+3 nS1PY
+2 IcF2L H5avx
